@@ -145,6 +145,8 @@ p.note { display: none; }
 <h2><span class="yellow">14日はベルモールのお花イベント</span></h2>
 <a href="20250616_001.JPG" target="_blank"><img src="20250616_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250616_002.JPG" target="_blank"><img src="20250616_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">予約して参加ですが、満席の盛況です</span></h2>
 <a href="20250616_003.JPG" target="_blank"><img src="20250616_003.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">アマチュア無線のデジタル電波を受けてくれる基地局が設置されている宇都宮の無線機屋さん</span></h2>
