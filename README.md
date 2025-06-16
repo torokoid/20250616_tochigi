@@ -152,7 +152,7 @@ p.note { display: none; }
 <h2><span class="yellow">アマチュア無線のデジタル電波を受けてくれる基地局が設置されている宇都宮の無線機屋さん</span></h2>
 <a href="20250616_004.JPG" target="_blank"><img src="20250616_004.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">基地局の電波が停波しちゃってるのでお邪魔してみたら、無線機のSW入れ忘れ・・・<br>SW入れて無事復活しました</span></h2>
+<h2><span class="yellow">基地局の電波が停波しちゃってるのでお邪魔してみたら、無線機のSW入れ忘れ・・・<br>ノートPCの右が無線機です、SW入れて無事復活しました</span></h2>
 <a href="20250616_005.JPG" target="_blank"><img src="20250616_005.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">14日はスーパーのお花と雨に濡れるお花でおしまい</span></h2>
